@@ -2,7 +2,6 @@
 
 ### Project's Title: Polinimial_Regression
 
-
 ### Project Description (Problem Satement): 
 - Explore feature engineering and polynomial regression which allows us to use the machinery of linear regression to fit very complicated, even very non-linear functions
 
